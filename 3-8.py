@@ -20,3 +20,4 @@ cv.imshow('Resize bicubic', patch3)
 
 cv.waitKey()
 cv.destroyAllWindows()
+
